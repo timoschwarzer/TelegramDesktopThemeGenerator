@@ -26,7 +26,6 @@ $Configs.Keys | % {
     $BaseContent | Set-Content Theme\colors.tdesktop-theme
     Compress-Archive -Path ./Theme/* -DestinationPath output.zip
     Rename-Item -path output.zip -newname ${ThemeBaseName}$_.tdesktop-theme
-    Remove-Item output.zip
 }
 
 # Cleanup...
