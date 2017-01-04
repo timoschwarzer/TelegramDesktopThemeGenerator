@@ -9,3 +9,6 @@ Usage:
    Variables have to be formatted like this in your base theme: `%variable_name%`
  * Run the script and it will create all the `.tdesktop-theme` files for you
  * (Optional) Leave a link to this repo when publishing your themes. It doesn't hurt. ;-)
+
+## Themes generated using this:
+ * [Dark Accent Themes](https://telegram.me/DarkAccentTheme)
